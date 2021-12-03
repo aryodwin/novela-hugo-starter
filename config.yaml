@@ -18,7 +18,3 @@ social:
 taxonomies:
   author: authors
 
-[[menu.main]]
-name : "Home"
-url : "/"
-weight : 1
